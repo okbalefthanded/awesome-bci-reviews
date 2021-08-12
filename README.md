@@ -118,7 +118,11 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Brain-computer interface-based humanoid control: A review](https://www.mdpi.com/1424-8220/20/13/3620)
 - [Comprehensive review on brain-controlled mobile robots and robotic arms based on electroencephalography signals](https://link.springer.com/article/10.1007/s11370-020-00328-5)
 - [Current Status, Challenges, and Possible Solutions of EEG-Based Brain-Computer Interface: A Comprehensive Review](https://www.frontiersin.org/articles/10.3389/fnbot.2020.00025/full)
-- [A comprehensive assessment of Brain Computer Interfaces: Recent trends and challenges](https://www.sciencedirect.com/science/article/abs/pii/S0165027020303411)
+- [A comprehensive assessment of Brain Computer Interfaces: Recent trends and challenges](https://www.sciencedirect.com/science/article/abs/pii/S0165027020303411)  
+
+# 2021
+- [Direct-Sense Brain–Computer Interfaces and Wearable Computers](https://ieeexplore.ieee.org/document/9302890)
+- [Interface, interaction, and intelligence in generalized brain–computer interfaces](https://doi.org/10.1016/j.tics.2021.04.003)
 
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
