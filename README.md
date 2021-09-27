@@ -124,6 +124,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 # 2021
 - [Direct-Sense Brain–Computer Interfaces and Wearable Computers](https://ieeexplore.ieee.org/document/9302890)
 - [Interface, interaction, and intelligence in generalized brain–computer interfaces](https://doi.org/10.1016/j.tics.2021.04.003)
+- [Signal Generation, Acquisition, and Processing in Brain Machine Interfaces: A Unified Review](https://www.frontiersin.org/articles/10.3389/fnins.2021.728178/full)
 
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
