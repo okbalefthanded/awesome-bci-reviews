@@ -121,6 +121,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [A comprehensive assessment of Brain Computer Interfaces: Recent trends and challenges](https://www.sciencedirect.com/science/article/abs/pii/S0165027020303411)  
 - [A survey on deep learning-based non-invasive brain signals: recent advances and new frontiers](https://iopscience.iop.org/article/10.1088/1741-2552/abc902)
 - [30+ years of P300 brain–computer interfaces](https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13569)
+- [Application of Transfer Learning in EEG Decoding Based on Brain-Computer Interfaces: A Review](https://www.mdpi.com/1424-8220/20/21/6321)
 
 # 2021
 - [Direct-Sense Brain–Computer Interfaces and Wearable Computers](https://ieeexplore.ieee.org/document/9302890)
