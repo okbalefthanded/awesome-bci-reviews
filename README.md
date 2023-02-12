@@ -106,6 +106,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [A survey on unmanned aerial vehicle remote control using brain-computer interface](https://ieeexplore.ieee.org/document/8362734)
 - [Asilomar Survey: Researcher Perspectives on Ethical Principles and Guidelines for BCI Research](https://www.tandfonline.com/doi/abs/10.1080/2326263X.2018.1530010?journalCode=tbci20)
 - [To train or not to train? A survey on training of feature extraction methods for SSVEP-based BCIs](https://iopscience.iop.org/article/10.1088/1741-2552/aaca6e)
+- [Brain–Computer Interface Spellers: A Review](https://www.mdpi.com/2076-3425/8/4/57)
 
 # 2019
 - [Deep learning-based electroencephalography analysis: a systematic review](https://iopscience.iop.org/article/10.1088/1741-2552/ab260c)
