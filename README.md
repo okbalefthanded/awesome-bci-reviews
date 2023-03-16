@@ -132,5 +132,9 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [EEG-based brain–computer interfaces exploiting steady-state somatosensory-evoked potentials: a literature review](https://iopscience.iop.org/article/10.1088/1741-2552/ac2fc4)
 - [Brain–computer interfaces based on code-modulated visual evoked potentials (c-VEP): a literature review](https://iopscience.iop.org/article/10.1088/1741-2552/ac38cf)
 - [A Systematic Review on Motor-Imagery Brain-Connectivity-Based Computer Interfaces](https://ieeexplore.ieee.org/document/9578928)
+
+# 2023
+- [Single trial detection of error-related potentials in brain–machine interfaces: a survey and comparison of methods](https://iopscience.iop.org/article/10.1088/1741-2552/acabe9)
+
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
