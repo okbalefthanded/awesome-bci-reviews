@@ -135,6 +135,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 
 # 2023
 - [Single trial detection of error-related potentials in brain–machine interfaces: a survey and comparison of methods](https://iopscience.iop.org/article/10.1088/1741-2552/acabe9)
+- [A survey of deep learning-based classification methods for steady-state visual evoked potentials](https://www.tandfonline.com/doi/full/10.1080/27706710.2023.2181102)
 
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
