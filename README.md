@@ -107,6 +107,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Asilomar Survey: Researcher Perspectives on Ethical Principles and Guidelines for BCI Research](https://www.tandfonline.com/doi/abs/10.1080/2326263X.2018.1530010?journalCode=tbci20)
 - [To train or not to train? A survey on training of feature extraction methods for SSVEP-based BCIs](https://iopscience.iop.org/article/10.1088/1741-2552/aaca6e)
 - [Brain–Computer Interface Spellers: A Review](https://www.mdpi.com/2076-3425/8/4/57)
+- [Brain-machine interfaces for rehabilitation in stroke: A review](https://content.iospress.com/articles/neurorehabilitation/nre172394)
 
 # 2019
 - [Deep learning-based electroencephalography analysis: a systematic review](https://iopscience.iop.org/article/10.1088/1741-2552/ab260c)
@@ -134,10 +135,14 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Brain–computer interfaces based on code-modulated visual evoked potentials (c-VEP): a literature review](https://iopscience.iop.org/article/10.1088/1741-2552/ac38cf)
 - [A Systematic Review on Motor-Imagery Brain-Connectivity-Based Computer Interfaces](https://ieeexplore.ieee.org/document/9578928)
 - [Brain–Computer Interface Speller Based on Steady-State Visual Evoked Potential: A Review Focusing on the Stimulus Paradigm and Performance](https://www.mdpi.com/2076-3425/11/4/450)
+- [Brain-Controlled Wheelchair Review: From Wet Electrode to Dry Electrode, from Single Modal to Hybrid Modal, from Synchronous to Asynchronous](https://ieeexplore.ieee.org/document/9398666)
+- [A systematic review on hybrid EEG/fNIRS in brain-computer interface](https://www.sciencedirect.com/science/article/abs/pii/S1746809421001920)
 
 # 2022
 - [Brain–Computer Interface-Controlled Exoskeletons in Clinical Neurorehabilitation: Ready or Not?](https://journals.sagepub.com/doi/full/10.1177/15459683221138751)
 - [EEG-based Brain-Computer Interfaces for people with Disorders of Consciousness: Features and applications. A systematic review](https://www.frontiersin.org/articles/10.3389/fnhum.2022.1040816/full)
+- [EEG hybrid brain-computer interfaces: A scoping review applying an existing hybrid-BCI taxonomy and considerations for pediatric applications](https://www.frontiersin.org/articles/10.3389/fnhum.2022.1007136/full)
+- [Advances in P300 brain–computer interface spellers: toward paradigm design and performance evaluation](https://www.frontiersin.org/articles/10.3389/fnhum.2022.1077717/full)
   
 # 2023
 - [Single trial detection of error-related potentials in brain–machine interfaces: a survey and comparison of methods](https://iopscience.iop.org/article/10.1088/1741-2552/acabe9)
