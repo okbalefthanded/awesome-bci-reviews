@@ -71,6 +71,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Towards Noninvasive Hybrid Brain–Computer Interfaces: Framework, Practice, Clinical Application, and Beyond](https://ieeexplore.ieee.org/document/7109824)
 - [Signal Processing Approaches to Minimize or Suppress Calibration Time in Oscillatory Activity-Based Brain–Computer Interfaces](https://ieeexplore.ieee.org/document/7109822)
 - [A Comparison Study of Canonical Correlation Analysis Based Methods for Detecting Steady-State Visual Evoked Potentials](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140703)
+- [Multi-modal and multi-brain-computer interfaces: A review](https://ieeexplore.ieee.org/document/7459835)
 
 # 2016
 - [Recent advances and open challenges in hybrid brain-computer interfacing: a technological review of non-invasive human research](https://www.tandfonline.com/doi/abs/10.1080/2326263X.2015.1134958)
@@ -125,6 +126,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [30+ years of P300 brain–computer interfaces](https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13569)
 - [Application of Transfer Learning in EEG Decoding Based on Brain-Computer Interfaces: A Review](https://www.mdpi.com/1424-8220/20/21/6321)
 - [Data Analytics in Steady-State Visual Evoked Potential-Based Brain–Computer Interface: A Review](https://ieeexplore.ieee.org/document/9170622)
+- [Brain–Computer Interface Software: A Review and Discussion](https://ieeexplore.ieee.org/document/8995646)
 
 # 2021
 - [Direct-Sense Brain–Computer Interfaces and Wearable Computers](https://ieeexplore.ieee.org/document/9302890)
@@ -138,17 +140,23 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Brain-Controlled Wheelchair Review: From Wet Electrode to Dry Electrode, from Single Modal to Hybrid Modal, from Synchronous to Asynchronous](https://ieeexplore.ieee.org/document/9398666)
 - [A systematic review on hybrid EEG/fNIRS in brain-computer interface](https://www.sciencedirect.com/science/article/abs/pii/S1746809421001920)
 - [Hybrid Deep Learning (hDL)-Based Brain-Computer Interface (BCI) Systems: A Systematic Review](https://www.mdpi.com/2076-3425/11/1/75)
+- [Review on Motor Imagery Based EEG Signal Classification for BCI Using Deep Learning Techniques](https://link.springer.com/chapter/10.1007/978-3-030-70917-4_15)
+- [Mind the gap: State-of-the-art technologies and applications for EEG-based brain–computer interfaces](https://pubs.aip.org/aip/apb/article/5/3/031507/149807/Mind-the-gap-State-of-the-art-technologies-and)
+- [Data Augmentation for Deep Neural Networks Model in EEG Classification Task: A Review](https://www.frontiersin.org/articles/10.3389/fnhum.2021.765525/full)
 
 # 2022
+- [Review of Machine Learning Techniques for EEG Based Brain Computer Interface](https://link.springer.com/article/10.1007/s11831-021-09684-6)
 - [Brain–Computer Interface-Controlled Exoskeletons in Clinical Neurorehabilitation: Ready or Not?](https://journals.sagepub.com/doi/full/10.1177/15459683221138751)
 - [EEG-based Brain-Computer Interfaces for people with Disorders of Consciousness: Features and applications. A systematic review](https://www.frontiersin.org/articles/10.3389/fnhum.2022.1040816/full)
 - [EEG hybrid brain-computer interfaces: A scoping review applying an existing hybrid-BCI taxonomy and considerations for pediatric applications](https://www.frontiersin.org/articles/10.3389/fnhum.2022.1007136/full)
 - [Advances in P300 brain–computer interface spellers: toward paradigm design and performance evaluation](https://www.frontiersin.org/articles/10.3389/fnhum.2022.1077717/full)
+- [Review of the State-of-the-Art of Brain-Controlled Vehicles](https://ieeexplore.ieee.org/document/9499083)
   
 # 2023
 - [Single trial detection of error-related potentials in brain–machine interfaces: a survey and comparison of methods](https://iopscience.iop.org/article/10.1088/1741-2552/acabe9)
 - [A survey of deep learning-based classification methods for steady-state visual evoked potentials](https://www.tandfonline.com/doi/full/10.1080/27706710.2023.2181102)
 - [An Analysis of Deep Learning Models in SSVEP-Based BCI: A Survey](https://www.mdpi.com/2076-3425/13/3/483)
+- [How Visual Stimuli Evoked P300 is Transforming the Brain–Computer Interface Landscape: A PRISMA Compliant Systematic Review](https://ieeexplore.ieee.org/document/10049170)
 
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
