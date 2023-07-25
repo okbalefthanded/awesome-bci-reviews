@@ -137,6 +137,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Brain–Computer Interface Speller Based on Steady-State Visual Evoked Potential: A Review Focusing on the Stimulus Paradigm and Performance](https://www.mdpi.com/2076-3425/11/4/450)
 - [Brain-Controlled Wheelchair Review: From Wet Electrode to Dry Electrode, from Single Modal to Hybrid Modal, from Synchronous to Asynchronous](https://ieeexplore.ieee.org/document/9398666)
 - [A systematic review on hybrid EEG/fNIRS in brain-computer interface](https://www.sciencedirect.com/science/article/abs/pii/S1746809421001920)
+- [Hybrid Deep Learning (hDL)-Based Brain-Computer Interface (BCI) Systems: A Systematic Review](https://www.mdpi.com/2076-3425/11/1/75)
 
 # 2022
 - [Brain–Computer Interface-Controlled Exoskeletons in Clinical Neurorehabilitation: Ready or Not?](https://journals.sagepub.com/doi/full/10.1177/15459683221138751)
