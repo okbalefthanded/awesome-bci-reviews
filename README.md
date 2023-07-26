@@ -116,6 +116,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Deep learning-based electroencephalography analysis: a systematic review](https://iopscience.iop.org/article/10.1088/1741-2552/ab260c)
 - [Single-paradigm and hybrid brain computing interfaces and their use by disabled patients](https://iopscience.iop.org/article/10.1088/1741-2552/ab2706)
 - [A Review of Error-Related Potential-Based Brain–Computer Interfaces for Motor Impaired People](https://ieeexplore.ieee.org/document/8849999)
+- [Advances in Hybrid Brain-Computer Interfaces: Principles, Design, and Applications](https://www.hindawi.com/journals/cin/2019/3807670/)
 
 # 2020
 - [BCI for stroke rehabilitation: Motor and beyond](https://iopscience.iop.org/article/10.1088/1741-2552/aba162)
