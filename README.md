@@ -99,6 +99,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Brain-Machine Interfaces: From Basic Science to Neuroprostheses and Neurorehabilitation](https://journals.physiology.org/doi/full/10.1152/physrev.00027.2016?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)
 - [Comparison of signal decomposition methods in classification of EEG signals for motor-imagery BCI system](https://www.sciencedirect.com/science/article/abs/pii/S1746809416301331)
 - [BRAIN-COMPUTER INTERFACES AND AUGMENTED REALITY: A STATE OF THE ART](https://hal.inria.fr/hal-01625167/document)
+- [Brain computer interface systems using non-invasive electroencephalogram signal: A literature review](https://ieeexplore.ieee.org/document/8280071)
 
 # 2018
 - [A comprehensive review of EEG-based brain-computer interface paradigms](https://iopscience.iop.org/article/10.1088/1741-2552/aaf12e)
@@ -109,10 +110,12 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [To train or not to train? A survey on training of feature extraction methods for SSVEP-based BCIs](https://iopscience.iop.org/article/10.1088/1741-2552/aaca6e)
 - [Brain–Computer Interface Spellers: A Review](https://www.mdpi.com/2076-3425/8/4/57)
 - [Brain-machine interfaces for rehabilitation in stroke: A review](https://content.iospress.com/articles/neurorehabilitation/nre172394)
+- [A review of disability EEG based wheelchair control system: Coherent taxonomy, open challenges and recommendations](https://www.sciencedirect.com/science/article/abs/pii/S0169260718304620)
 
 # 2019
 - [Deep learning-based electroencephalography analysis: a systematic review](https://iopscience.iop.org/article/10.1088/1741-2552/ab260c)
 - [Single-paradigm and hybrid brain computing interfaces and their use by disabled patients](https://iopscience.iop.org/article/10.1088/1741-2552/ab2706)
+- [A Review of Error-Related Potential-Based Brain–Computer Interfaces for Motor Impaired People](https://ieeexplore.ieee.org/document/8849999)
 
 # 2020
 - [BCI for stroke rehabilitation: Motor and beyond](https://iopscience.iop.org/article/10.1088/1741-2552/aba162)
@@ -127,6 +130,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Application of Transfer Learning in EEG Decoding Based on Brain-Computer Interfaces: A Review](https://www.mdpi.com/1424-8220/20/21/6321)
 - [Data Analytics in Steady-State Visual Evoked Potential-Based Brain–Computer Interface: A Review](https://ieeexplore.ieee.org/document/9170622)
 - [Brain–Computer Interface Software: A Review and Discussion](https://ieeexplore.ieee.org/document/8995646)
+- [Review on motor imagery based BCI systems for upper limb post-stroke neurorehabilitation: From designing to application](https://www.sciencedirect.com/science/article/pii/S0010482520302031)
 
 # 2021
 - [Direct-Sense Brain–Computer Interfaces and Wearable Computers](https://ieeexplore.ieee.org/document/9302890)
