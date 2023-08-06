@@ -171,6 +171,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [An Analysis of Deep Learning Models in SSVEP-Based BCI: A Survey](https://www.mdpi.com/2076-3425/13/3/483)
 - [How Visual Stimuli Evoked P300 is Transforming the Brain–Computer Interface Landscape: A PRISMA Compliant Systematic Review](https://ieeexplore.ieee.org/document/10049170)
 - [Machine learning techniques for electroencephalogram based brain-computer interface: A systematic literature review](https://www.sciencedirect.com/science/article/pii/S2665917423001599)
+- [Generative Adversarial Networks for Electroencephalogram Signal Analysis: A Mini Review](https://ieeexplore.ieee.org/document/10078666)
 
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
