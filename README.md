@@ -175,6 +175,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Machine learning techniques for electroencephalogram based brain-computer interface: A systematic literature review](https://www.sciencedirect.com/science/article/pii/S2665917423001599)
 - [Generative Adversarial Networks for Electroencephalogram Signal Analysis: A Mini Review](https://ieeexplore.ieee.org/document/10078666)
 - [A review on the performance of brain-computer interface systems used for patients with locked-in and completely locked-in syndrome](https://link.springer.com/article/10.1007/s11571-023-09995-3)
+- [Methods for Motion Artifact Reduction in Online Brain-Computer Interface Experiments: A Systematic Review](https://www.frontiersin.org/articles/10.3389/fnhum.2023.1251690)
 
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
