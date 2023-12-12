@@ -167,6 +167,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Advances in P300 brain–computer interface spellers: toward paradigm design and performance evaluation](https://www.frontiersin.org/articles/10.3389/fnhum.2022.1077717/full)
 - [Review of the State-of-the-Art of Brain-Controlled Vehicles](https://ieeexplore.ieee.org/document/9499083)
 - [Transfer Learning for EEG-Based Brain–Computer Interfaces: A Review of Progress Made Since 2016](https://ieeexplore.ieee.org/document/9134411)
+- [EEG Channel Selection Techniques in Motor Imagery Applications: A Review and New Perspectives](https://www.mdpi.com/2306-5354/9/12/726)
   
 # 2023
 - [Single trial detection of error-related potentials in brain–machine interfaces: a survey and comparison of methods](https://iopscience.iop.org/article/10.1088/1741-2552/acabe9)
