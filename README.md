@@ -180,6 +180,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Methods for Motion Artifact Reduction in Online Brain-Computer Interface Experiments: A Systematic Review](https://www.frontiersin.org/articles/10.3389/fnhum.2023.1251690)
 - [Two is better? combining EEG and fMRI for BCI and neurofeedback: a systematic review](https://iopscience.iop.org/article/10.1088/1741-2552/ad06e1)
 - [fNIRS-EEG BCIs for Motor Rehabilitation: A Review](https://www.mdpi.com/2306-5354/10/12/1393)
+- [Deep Learning in EEG-Based BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications](https://ieeexplore.ieee.org/abstract/document/10305163)
 
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
