@@ -4,7 +4,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [2000](#2000) | [2003](#2003) | [2007](#2007) | [2010](#2010) | [2011](#2011) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) | [2016](#2016) |
-[2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022) | [2023](#2023)
+[2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022) | [2023](#2023) | [2024](#2024) 
 
 # 2000
 - [Brain–Computer Interface Technology : A Review of the First International Meeting](https://ieeexplore.ieee.org/document/847807/)
@@ -181,6 +181,9 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Two is better? combining EEG and fMRI for BCI and neurofeedback: a systematic review](https://iopscience.iop.org/article/10.1088/1741-2552/ad06e1)
 - [fNIRS-EEG BCIs for Motor Rehabilitation: A Review](https://www.mdpi.com/2306-5354/10/12/1393)
 - [Deep Learning in EEG-Based BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications](https://ieeexplore.ieee.org/abstract/document/10305163)
+- [Review of public motor imagery and execution datasets in brain-computer interfaces](https://www.frontiersin.org/articles/10.3389/fnhum.2023.1134869/full)
+
+# 2024
 
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
