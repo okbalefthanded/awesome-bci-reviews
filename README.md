@@ -168,6 +168,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Review of the State-of-the-Art of Brain-Controlled Vehicles](https://ieeexplore.ieee.org/document/9499083)
 - [Transfer Learning for EEG-Based Brain–Computer Interfaces: A Review of Progress Made Since 2016](https://ieeexplore.ieee.org/document/9134411)
 - [EEG Channel Selection Techniques in Motor Imagery Applications: A Review and New Perspectives](https://www.mdpi.com/2306-5354/9/12/726)
+- [Deep Learning in EEG: Advance of the Last Ten-Year Critical Period](https://ieeexplore.ieee.org/document/9430619)
   
 # 2023
 - [Status of deep learning for EEG-based brain–computer interface applications](https://www.frontiersin.org/articles/10.3389/fncom.2022.1006763/full)
