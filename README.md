@@ -42,6 +42,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Review of the BCI competition IV](https://www.frontiersin.org/articles/10.3389/fnins.2012.00055/full)
 - [Brain computer interfaces, a review.](https://www.mdpi.com/1424-8220/12/2/1211)
 - [A comparison of classification techniques for a gaze-independent P300-based brain-computer interface.](https://iopscience.iop.org/article/10.1088/1741-2560/9/4/045012)
+- [Toward functioning and usable brain–computer interfaces (BCIs): A literature review](https://www.tandfonline.com/doi/full/10.3109/17483107.2011.589486)
 
 # 2013
 - [A review of hybrid brain-computer interface systems](https://www.hindawi.com/journals/ahci/2013/187024/)
