@@ -122,6 +122,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [A Review of Error-Related Potential-Based Brain–Computer Interfaces for Motor Impaired People](https://ieeexplore.ieee.org/document/8849999)
 - [Advances in Hybrid Brain-Computer Interfaces: Principles, Design, and Applications](https://www.hindawi.com/journals/cin/2019/3807670/)
 - [Neurotechnologies for Human Cognitive Augmentation: Current State of the Art and Future Prospects](https://www.frontiersin.org/articles/10.3389/fnhum.2019.00013/full)
+- [Brain–Computer Interface Games Based on Consumer-Grade EEG Devices: A Systematic Literature Review](https://www.tandfonline.com/doi/full/10.1080/10447318.2019.1612213)
 
 # 2020
 - [BCI for stroke rehabilitation: Motor and beyond](https://iopscience.iop.org/article/10.1088/1741-2552/aba162)
