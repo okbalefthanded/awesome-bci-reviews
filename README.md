@@ -184,6 +184,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [fNIRS-EEG BCIs for Motor Rehabilitation: A Review](https://www.mdpi.com/2306-5354/10/12/1393)
 - [Deep Learning in EEG-Based BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications](https://ieeexplore.ieee.org/abstract/document/10305163)
 - [Review of public motor imagery and execution datasets in brain-computer interfaces](https://www.frontiersin.org/articles/10.3389/fnhum.2023.1134869/full)
+- [Generative adversarial networks in EEG analysis: an overview](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-023-01169-w)
 
 # 2024
 
