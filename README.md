@@ -89,6 +89,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Multimodal BCIs: Target Detection, Multidimensional Control, and Awareness Evaluation in Patients with Disorder of Consciousness](https://ieeexplore.ieee.org/abstract/document/7299246)
 - [Advances in user-training for mental-imagery-based BCI control](https://www.sciencedirect.com/science/article/abs/pii/S0079612316300061?via%3Dihub)
 - [3D graphics, virtual reality, and motion-onset visual evoked potentials in neurogaming](https://www.sciencedirect.com/science/article/abs/pii/S0079612316300929?via%3Dihub)
+- [Robotic and Virtual Reality BCIs Using Spatial Tactile and Auditory Oddball Paradigms](https://www.frontiersin.org/articles/10.3389/fnbot.2016.00020/full)
 
 # 2017
 - [A review and experimental study on application of classifiers and evolutionary algorithms in EEG based brain-machine interface systems](https://iopscience.iop.org/article/10.1088/1741-2552/aa8063)
