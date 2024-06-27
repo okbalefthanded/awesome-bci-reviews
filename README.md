@@ -191,7 +191,6 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Generative adversarial networks in EEG analysis: an overview](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-023-01169-w)
 # 2024
 - [An in-depth survey on Deep Learning-based Motor Imagery Electroencephalogram (EEG) classification](https://www.sciencedirect.com/science/article/pii/S093336572300252X?via%3Dihub)
-# 2024
 
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
