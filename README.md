@@ -189,8 +189,14 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Deep Learning in EEG-Based BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications](https://ieeexplore.ieee.org/abstract/document/10305163)
 - [Review of public motor imagery and execution datasets in brain-computer interfaces](https://www.frontiersin.org/articles/10.3389/fnhum.2023.1134869/full)
 - [Generative adversarial networks in EEG analysis: an overview](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-023-01169-w)
+- [A Review of Deep Learning Methods for Cross-subject Rapid Serial Visual Presentation Detection in World Robot Contest 2022](https://journals.sagepub.com/doi/full/10.26599/BSA.2023.9050013)
+- [Wearable Brain–Computer Interfaces Based on Steady-State Visually Evoked Potentials and Augmented Reality: A Review](https://ieeexplore.ieee.org/document/10161603)
+    
 # 2024
 - [An in-depth survey on Deep Learning-based Motor Imagery Electroencephalogram (EEG) classification](https://www.sciencedirect.com/science/article/pii/S093336572300252X?via%3Dihub)
+- [An Analysis of Traditional Methods and Deep Learning Methods in SSVEP-Based BCI: A Survey](https://www.mdpi.com/2079-9292/13/14/2767)
+- [Data Constraints and Performance Optimization for Transformer-Based Models in EEG-Based Brain-Computer Interfaces: A Survey](https://ieeexplore.ieee.org/document/10509679)
+- [Speech imagery decoding using EEG signals and deep learning: A survey](https://ieeexplore.ieee.org/abstract/document/10605127)
 
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
