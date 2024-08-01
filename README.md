@@ -43,6 +43,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Brain computer interfaces, a review.](https://www.mdpi.com/1424-8220/12/2/1211)
 - [A comparison of classification techniques for a gaze-independent P300-based brain-computer interface.](https://iopscience.iop.org/article/10.1088/1741-2560/9/4/045012)
 - [Toward functioning and usable brain–computer interfaces (BCIs): A literature review](https://www.tandfonline.com/doi/full/10.3109/17483107.2011.589486)
+- [Eye-gaze independent EEG-based brain–computer interfaces for communication](https://iopscience.iop.org/article/10.1088/1741-2560/9/4/045001)
 
 # 2013
 - [A review of hybrid brain-computer interface systems](https://www.hindawi.com/journals/ahci/2013/187024/)
