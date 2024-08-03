@@ -17,6 +17,9 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [A survey of signal processing algorithms in brain-computer interfaces based on electrical brain signals](https://iopscience.iop.org/article/10.1088/1741-2560/4/2/R03)
 - [EMG and EOG artifacts in brain computer interface systems: A survey.](https://www.sciencedirect.com/science/article/abs/pii/S1388245706015124)
 
+# 2008
+- [Brain–computer interfaces and communication in paralysis: Extinction of goal directed thinking in completely paralysed patients?](https://www.sciencedirect.com/science/article/abs/pii/S1388245708009115)
+
 # 2010
 - [Combining brain–computer interfaces and assistive technologies: state-of-the-art and challenges](https://www.frontiersin.org/articles/10.3389/fnins.2010.00161/full)
 - [Enhancing human-computer interaction with input from active and passive brain-computer interfaces. (In: Brain-computer interfaces.)](https://link.springer.com/chapter/10.1007/978-1-84996-272-8_11)
