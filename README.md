@@ -198,6 +198,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Generative adversarial networks in EEG analysis: an overview](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-023-01169-w)
 - [A Review of Deep Learning Methods for Cross-subject Rapid Serial Visual Presentation Detection in World Robot Contest 2022](https://journals.sagepub.com/doi/full/10.26599/BSA.2023.9050013)
 - [Wearable Brain–Computer Interfaces Based on Steady-State Visually Evoked Potentials and Augmented Reality: A Review](https://ieeexplore.ieee.org/document/10161603)
+- [Review on brain-computer interface technologies in healthcare](https://link.springer.com/article/10.1007/s12551-023-01138-6)
     
 # 2024
 - [An in-depth survey on Deep Learning-based Motor Imagery Electroencephalogram (EEG) classification](https://www.sciencedirect.com/science/article/pii/S093336572300252X?via%3Dihub)
