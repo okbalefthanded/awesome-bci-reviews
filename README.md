@@ -1,6 +1,9 @@
 # Awesome-BCI-Reviews
 Curated list of Brain-Computer Interface peer-reviewd published reviews and surveys ordered by year of publication.
 
+[![Bar plot](/assets/reviews_per_year_barplot.png )]
+
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [2000](#2000) | [2003](#2003) | [2007](#2007) | [2008](#2008) | [2009](#2009) [ [2010](#2010) | [2011](#2011) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) | [2016](#2016) |
