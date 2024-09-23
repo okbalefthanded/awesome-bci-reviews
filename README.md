@@ -210,6 +210,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Data Constraints and Performance Optimization for Transformer-Based Models in EEG-Based Brain-Computer Interfaces: A Survey](https://ieeexplore.ieee.org/document/10509679)
 - [Speech imagery decoding using EEG signals and deep learning: A survey](https://ieeexplore.ieee.org/abstract/document/10605127)
 - [Explainable artificial intelligence approaches for brain–computer interfaces: a review and design space](https://iopscience.iop.org/article/10.1088/1741-2552/ad6593)
+- [The state of clinical trials of implantable brain–computer interfaces](https://www.nature.com/articles/s44222-024-00239-5)
 
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
