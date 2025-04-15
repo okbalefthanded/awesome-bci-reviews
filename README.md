@@ -214,3 +214,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=okbalefthanded/awesome-bci-reviews&type=Date)](https://www.star-history.com/#okbalefthanded/awesome-bci-reviews&Date)
