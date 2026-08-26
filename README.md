@@ -1,7 +1,8 @@
 # Awesome-BCI-Reviews
 Curated list of Brain-Computer Interface peer-reviewd published reviews and surveys ordered by year of publication.
 
-![Bar plot](/assets/reviews_per_year_2025.png )
+![Bar plot](/assets/reviews_per_year_2026.png )
+![Pie Chart](/assets/bci_categories_pie.png)
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
