@@ -109,7 +109,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Advances in user-training for mental-imagery-based BCI control](https://www.sciencedirect.com/science/article/abs/pii/S0079612316300061?via%3Dihub)
 - [3D graphics, virtual reality, and motion-onset visual evoked potentials in neurogaming](https://www.sciencedirect.com/science/article/abs/pii/S0079612316300929?via%3Dihub)
 - [Robotic and Virtual Reality BCIs Using Spatial Tactile and Auditory Oddball Paradigms](https://www.frontiersin.org/articles/10.3389/fnbot.2016.00020/full)
-
+- [Brain–computer interfaces for communication and rehabilitation](https://www.nature.com/articles/nrneurol.2016.113)
 # 2017
 - [A review and experimental study on application of classifiers and evolutionary algorithms in EEG based brain-machine interface systems](https://iopscience.iop.org/article/10.1088/1741-2552/aa8063)
 - [Riemannian Approaches in Brain-Computer Interfaces: A Review](https://ieeexplore.ieee.org/document/7740054)
@@ -187,6 +187,8 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Review of brain encoding and decoding mechanisms for EEG-based brain–computer interface](https://link.springer.com/article/10.1007/s11571-021-09676-z)
 - [Artificial Intelligence Algorithms in Visual Evoked Potential-Based Brain-Computer Interfaces for Motor Rehabilitation Applications: Systematic Review and Future Directions](https://www.frontiersin.org/articles/10.3389/fnhum.2021.772837/full)
 - [EEG-Based Brain-Computer Interfaces (BCIs): A Survey of Recent Studies on Signal Sensing Technologies and Computational Intelligence Approaches and Their Applications](https://dl.acm.org/doi/abs/10.1109/TCBB.2021.3052811)
+- [Embedded Brain Computer Interface: State-of-the-Art in Research](https://www.mdpi.com/1424-8220/21/13/4293)
+- [Deep learning for motor imagery EEG-based classification: A review](https://www.sciencedirect.com/science/article/abs/pii/S1746809420303116)
 
 # 2022
 - [Review of Machine Learning Techniques for EEG Based Brain Computer Interface](https://link.springer.com/article/10.1007/s11831-021-09684-6)
@@ -200,6 +202,7 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Deep Learning in EEG: Advance of the Last Ten-Year Critical Period](https://ieeexplore.ieee.org/document/9430619)
 - [EEG-based vibrotactile evoked brain-computer interfaces system: A systematic review](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269001)
 - [Brain-Computer Interface Speller System for Alternative Communication: A Review](https://www.sciencedirect.com/science/article/abs/pii/S1959031821000944)
+- [A systematic review of research on augmentative and alternative communication brain-computer interface systems for individuals with disabilities](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2022.952380/full)
   
 # 2023
 - [Status of deep learning for EEG-based brain–computer interface applications](https://www.frontiersin.org/articles/10.3389/fncom.2022.1006763/full)
@@ -225,6 +228,8 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Recent Progress in Wearable Brain–Computer Interface (BCI) Devices Based on Electroencephalogram (EEG) for Medical Applications: A Review](https://spj.science.org/doi/10.34133/hds.0096)
 - [Advanced Electrode Technologies for Noninvasive Brain–Computer Interfaces](https://pubs.acs.org/doi/10.1021/acsnano.3c06781)
 - [Fatigue factors and fatigue indices in SSVEP-based brain-computer interfaces: a systematic review and meta-analysis](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1248474/full)
+- [A comprehensive review on motion trajectory reconstruction for EEG-based brain-computer interface](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1086472/full)
+- [Towards Practical BCI-Driven Wheelchairs: A Systematic Review Study](https://ieeexplore.ieee.org/document/10015149)
     
 # 2024
 - [An in-depth survey on Deep Learning-based Motor Imagery Electroencephalogram (EEG) classification](https://www.sciencedirect.com/science/article/pii/S093336572300252X?via%3Dihub)
@@ -253,6 +258,21 @@ Curated list of Brain-Computer Interface peer-reviewd published reviews and surv
 - [Speech imagery brain–computer interfaces: a systematic literature review](https://iopscience.iop.org/article/10.1088/1741-2552/ade28e/meta)
 - [Addressing BCI inefficiency in c-VEP-based BCIs: A comprehensive study of neurophysiological predictors, binary stimulus sequences, and user comfort](https://iopscience.iop.org/article/10.1088/2057-1976/ade316/meta)
 - [Learning from small datasets—review of workshop 6 of the 10th International BCI Meeting 2023](https://iopscience.iop.org/article/10.1088/1741-2552/addf80)
+- [A Decade of Rapid Serial Visual Presentation Paradigm in Brain-Computer Interface for Target Detection: Current Status and Trends](https://ieeexplore.ieee.org/abstract/document/11143892)
+- [Brain–Computer Interface—A Brain-in-the-Loop Communication System](https://ieeexplore.ieee.org/abstract/document/11134813)
+- [Deep Learning Approaches for EEG-Motor Imagery-Based BCIs: Current Models, Generalization Challenges, and Emerging Trends ](https://ieeexplore.ieee.org/abstract/document/11145817)
+- [Error-Related Potentials Detection to Enhance Human-Robot Collaboration: A Preliminary Review](https://hal.science/hal-05299649)
+- [Influence of age, cognitive function, attention, and mental state on the effectiveness of EEG-based brain-computer interface device use: a systematic review](https://link.springer.com/article/10.1186/s12984-025-01813-7)
+- [Edge AI–Brain-Computer Interfaces System: A Survey](https://ieeexplore.ieee.org/abstract/document/11197031/)
+- [An integration of BCI and vision system for Robotics applications: a review](https://www.sciencedirect.com/science/article/pii/S1000934525001920)
+- [A Review of EEG Artifact Removal Techniques for Brain-Computer Interface](https://link.springer.com/article/10.1007/s42979-025-04592-z)
+- [Recent Advances in Portable Dry Electrode EEG: Architecture and Applications in Brain-Computer Interfaces](https://www.mdpi.com/1424-8220/25/16/5215)
+- [EEG-Based Brain–Computer Interface: Fundamentals, Methods, Applications, and Challenges](https://ieeexplore.ieee.org/document/11215710)
+
+# 2026
+- [Navigation Paradigms for Non-invasive BCI-controlled Wheelchairs: A Systematic Review ](https://iopscience.iop.org/article/10.1088/2516-1091/ae5563)
+- [EEG-based emotion recognition in brain–computer interfaces: methods, challenges, and future directions ](https://www.sciencedirect.com/science/article/abs/pii/S0957417426011589)
+- [A comprehensive review of deep learning for motor imagery EEG: From healthy subjects to patients ](https://www.sciencedirect.com/science/article/abs/pii/S174680942600234X)
 
 # Contribution
 contributions are welcome, just add a missing article and send a pull request.
