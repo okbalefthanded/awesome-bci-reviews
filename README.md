@@ -280,4 +280,4 @@ contributions are welcome, just add a missing article and send a pull request.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=okbalefthanded/awesome-bci-reviews&type=Date)](https://www.star-history.com/#okbalefthanded/awesome-bci-reviews&Date)
+[![Star History Chart](https://api.star-history.com/chart?repos=okbalefthanded/awesome-bci-reviews&type=date&legend=top-left)](https://www.star-history.com/?repos=okbalefthanded%2Fawesome-bci-reviews&type=date&legend=top-left)
